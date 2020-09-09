@@ -99,3 +99,11 @@
         content: '';
         background-color: #ebf1fa;
     }
+ .cardPik{
+      border-radius: 40%;
+    }
+ 
+    .testCard{
+      border: none;
+      
+    }
