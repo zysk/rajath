@@ -1,0 +1,142 @@
+.topbar {
+    background: #39312f;
+    font-size: 14px;
+    padding: 0;
+    color: rgba(255, 255, 255, 0.8);
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.Services{
+    background-color: #fff9f7;
+}
+.l{
+color: #ff5821;
+}
+a{
+    color: black;
+  }
+.myStyle{
+ border-radius: 20px;
+ width: min-content;
+}
+.topbar .cta a {
+    color: #fff;
+    background: #ff5821;
+    padding: 8px 20px;
+    display: inline-block;
+}
+.topbar .contact-info li {
+    display: inline-block;
+    padding: 8px 0;
+}
+.topbar {
+    background: #39312f;
+    font-size: 14px;
+    padding: 0;
+    color: rgba(255, 255, 255, 0.8);
+}
+.myBtn{
+ border-radius: 20px;
+ position: relative;
+ right: 3rem;
+}
+.smallImage{
+ max-height: 500px;
+}
+
+@media (max-width: 600px){
+    .whyUs{
+       position: relative;
+       top: 7rem;
+      
+    }
+    
+    .landing{
+      font-size: 24px;
+     
+    }
+    .support{
+      font-size: 18px;
+    }
+}
+.topbar .contact-info a {
+    color: rgba(255, 255, 255, 0.8);
+}
+.more-btn {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 6px 30px 8px 30px;
+    color: #fff;
+    border-radius: 50px;
+   
+}
+.about-us{
+        background-color: #fff9f7;
+}
+.section-bg {
+    background-color: #fff9f7;
+}
+a {
+    color: #ff5821;
+}
+#topbar .contact-info ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.social-links a {
+    font-size: 18px;
+    display: inline-block;
+    background: #ff5821;
+    color: #fff;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+}
+.qw{
+    font-size: 30px;
+}
+.ff{
+    height: 100%;
+    width: 100%; 
+    position: absolute;
+     background-color: black;
+     opacity: .4;
+}
+.fro{
+    width: 15rem;
+    background-color: #ff5821;
+    color:white;
+}
+.hh{
+    width: 18rem;
+    border-radius: 20px;
+}
+.kk{
+    width: 18rem;
+    border-radius: 20px;
+}
+.uy{
+    background: rgba(255,255,255, 0.9);
+    border-radius: 5px;color: black;
+    position: relative;top:4.1rem;
+}
+.aa{
+    
+    color: #ff5821;
+}
+@media (max-width: 900px) {
+    .cardText{
+      position: relative;
+    bottom:2rem;
+   }
+   @media (max-width: 600px){
+    .whyUs{
+       position: relative;
+       top: 7rem;
