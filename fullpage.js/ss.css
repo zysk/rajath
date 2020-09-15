@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Montserrat';
+    text-align: center;
+    color: rgb(22, 18, 19);
+}
+
+.r1{
+    background: url('image1.jpg');
+    background-size: cover;
+
+}
+
+.r3{
+    background: url('web3.jpg');
+    background-size: cover;
+}
+h2 {
+    text-align: left;
+    margin-left: 2em;
+    font-size: 4em; 
+}
+.r2{
+    background: url('app3.jpg');
+    background-size: cover;
+}
+.fp-slidesNav.fp-bottom {
+    margin-left: 28em  !important;
+}
